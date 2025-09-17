@@ -1,0 +1,64 @@
+body{
+    font-family: Montserrat;
+    background-color: dodgerblue;
+}
+#title{
+    background-color: dodgerblue;
+    color: #fff;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem; 
+    line-height: 2;
+}
+h3{
+  font-family: cursive;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+/*Navigation bar  */
+
+.navbar{
+    padding: 4.5rem;
+  }
+
+  .navbar-brand{
+    font-family: monospace;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .nav-item{
+    padding: 0 18px;
+  }
+  .nav-link{
+    font-size: 1.2rem;
+    font-family: cursive;
+  }
+  col-lg-6 row{
+    width: 40;
+  }
+
+   /* Download button */
+   .btn{
+    padding: 5% 3% 5% 0;
+  }
+
+  /*  features */
+#features{
+  padding: 7% 15%;
+}
+.features-box{
+  text-align: center;
+}
+.features-box-1{
+  margin-left: 30px;
+  margin-top: 100px;
+}
+
+
+/* pricing section */
+#pricing{
+  padding: 100px;
+}
